@@ -1,0 +1,209 @@
+
+body {
+    background-image: url("ren-ran-bBiuSdck8tU-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+ .pagetitle {
+    font-size: 90px;
+    font-family: 'Bebas Neue', cursive;
+    color: #C9D5D1; 
+    margin-top: 3%;
+    text-align: center;
+ }
+
+ .description{
+     margin-top: -10px;
+ }
+
+ .newArticle {
+font-family: 'Fira Sans', sans-serif;;
+  background-color: #486957; 
+  color: #C9D5D1;
+  padding: 10px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 5px; 
+  right: 40%;
+  left: 40%;
+  
+}
+
+ .newArticle:hover {
+    background-color: #C9D5D1;
+    color: #486957; 
+    text-decoration: none;
+  }
+
+  .readMoreBtn {
+    font-family: 'Fira Sans', sans-serif;
+    border: 2px solid #3556fc;
+    border-radius: 5px;
+    color: #486957;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 14px;
+
+  }
+
+  .readMoreBtn:hover {
+    background-color: #3556fc;
+    color: #C9D5D1; 
+    text-decoration: none;
+  }
+
+  .editBtn {
+    font-family: 'Fira Sans', sans-serif;
+    border: 2px solid #29ba96;
+    border-radius: 5px;
+    color: #486957;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 14px;
+
+  }
+
+  .editBtn:hover {
+    background-color: #29ba96;
+    color: #C9D5D1; 
+    text-decoration: none;
+  }
+  .deleteBtn {
+    font-family: 'Fira Sans', sans-serif;
+    background-color: white;
+    border: 2px solid #ad133a;
+    border-radius: 5px;
+    color: #486957;
+    padding: 3px 9px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 14px;
+
+  }
+
+  .deleteBtn:hover {
+    background-color: #a3979a;
+    color: #C9D5D1; 
+    text-decoration: none;
+  }
+
+  .saveBtn {
+      background-color: #C9D5D1;
+      font-family: 'Fira Sans', sans-serif;
+      color: #3556fc;
+      padding: 8px 20px;
+      font-size: 18px;
+      border-radius: 5px;
+      border-style: none;
+
+  }
+
+  .saveBtn:hover {
+    background-color: #486957;
+    font-family: 'Fira Sans', sans-serif;
+    color: #C9D5D1;
+
+}
+
+.cancelBtn {
+    background-color: #C9D5D1;
+    font-family: 'Fira Sans', sans-serif;
+    color: #ad133a;
+    padding: 10px 20px 11px 20px;
+    font-size: 18px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.cancelBtn:hover {
+  background-color: #486957;
+  font-family: 'Fira Sans', sans-serif;
+  color: #C9D5D1;
+  text-decoration: none;
+}
+
+.allArticles {
+    background-color: #C9D5D1;
+    font-family: 'Fira Sans', sans-serif;
+    color: #3556fc;
+    padding: 8px 15px 8px 15px;
+    font-size: 18px;
+    border-radius: 5px;
+    text-decoration: none;
+    border: 2px solid #486957;
+}
+
+.allArticles:hover {
+  background-color: #486957;
+  font-family: 'Fira Sans', sans-serif;
+  color: #C9D5D1;
+  text-decoration: none;
+}
+
+.editButton {
+    background-color: #C9D5D1;
+    font-family: 'Fira Sans', sans-serif;
+    color: #29ba96;
+    padding: 8px 15px 8px 15px;
+    font-size: 18px;
+    border-radius: 5px;
+    text-decoration: none;
+    border: 2px solid #486957;
+}
+
+.editButton:hover {
+  background-color: #486957;
+  font-family: 'Fira Sans', sans-serif;
+  color: #C9D5D1;
+  text-decoration: none;
+}
+  
+
+  .card-title {
+    color: #486957;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 35px;
+    text-align: center;
+  }
+
+  .card-subtitle {
+      font-size: 14px;
+      font-style: italic;
+
+  }
+
+  .date {
+    font-size: 16px;
+  }
+
+  .description {
+    color: #486957;
+    font-family: 'Fira Sans', sans-serif;
+  }
+
+  .form-group {
+      color:#C9D5D1; 
+  }
+
+  .label{
+    font-family: 'Fira Sans', sans-serif;
+    color:#C9D5D1; 
+    font-size: 20px;
+  }
+
+  .fullArticle {
+      background-color: #C9D5D1;
+      padding: 20px;
+      width: 100%;
+      margin-bottom: 25px;
+      
+  }
+
+  .articlePage {
+      min-width: 85%; 
+ }
